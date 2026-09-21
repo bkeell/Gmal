@@ -1,0 +1,6 @@
+{
+  "name": "OpsPlatform - نظام إدارة العمليات والمالية",
+  "description": "منصة متكاملة وشاملة لإدارة العمليات الميدانية والمهام، العهد النقدية، المصروفات والتسويات، تقارير الأداء وتحليلات الذكاء الاصطناعي وإدارة الصلاحيات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
